@@ -1,0 +1,17 @@
+C:\Users\Andres\source\repos\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Users\Andres\source\repos\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Users\Andres\source\repos\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Users\Andres\source\repos\Estudiantes\bin\Debug\Estudiantes.xml
+C:\Users\Andres\source\repos\Estudiantes\obj\Debug\Estudiantes.vbprojAssemblyReference.cache
+C:\Users\Andres\source\repos\Estudiantes\obj\Debug\Estudiantes.Iniciar.resources
+C:\Users\Andres\source\repos\Estudiantes\obj\Debug\Estudiantes.Resources.resources
+C:\Users\Andres\source\repos\Estudiantes\obj\Debug\Estudiantes.vbproj.GenerateResource.cache
+C:\Users\Andres\source\repos\Estudiantes\obj\Debug\Estudiantes.vbproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Users\Andres\source\repos\Estudiantes\obj\Debug\Estudiantes.xml
+C:\Users\Andres\source\repos\Estudiantes\obj\Debug\Estudiantes.pdb
+C:\Users\Andres\source\repos\Estudiantes\obj\Debug\Estudiantes.Principal.resources
+C:\Users\Andres\source\repos\Estudiantes\bin\Debug\Estudiantes.exe.manifest
+C:\Users\Andres\source\repos\Estudiantes\bin\Debug\Estudiantes.application
+C:\Users\Andres\source\repos\Estudiantes\obj\Debug\Estudiantes.exe.manifest
+C:\Users\Andres\source\repos\Estudiantes\obj\Debug\Estudiantes.application
